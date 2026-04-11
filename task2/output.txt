@@ -1,56 +1,56 @@
 task2:
 total 16
-drwxrwxr-x 4 valerio valerio 4096 Apr 11 10:46 .
-drwxrwxr-x 5 valerio valerio 4096 Apr 11 10:45 ..
-drwxrwxr-x 3 valerio valerio 4096 Apr 11 10:18 backup
--rw-rw-r-- 1 valerio valerio    0 Apr 11 10:48 output.txt
-drwxrwxr-x 6 valerio valerio 4096 Apr 11 10:17 project
+drwxrwxr-x 4 valerio valerio 4096 Apr 11 11:07 .
+drwxrwxr-x 5 valerio valerio 4096 Apr 11 10:52 ..
+drwxrwxr-x 4 valerio valerio 4096 Apr 11 10:52 backup
+-rw-rw-r-- 1 valerio valerio    0 Apr 11 11:36 output.txt
+drwxrwxr-x 5 valerio valerio 4096 Apr 11 10:52 project
 
 task2/backup:
-total 12
-drwxrwxr-x 3 valerio valerio 4096 Apr 11 10:18 .
-drwxrwxr-x 4 valerio valerio 4096 Apr 11 10:46 ..
-drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:18 docs
+total 16
+drwxrwxr-x 4 valerio valerio 4096 Apr 11 10:52 .
+drwxrwxr-x 4 valerio valerio 4096 Apr 11 11:07 ..
+drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:56 docs
+drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:52 logs
 
 task2/backup/docs:
 total 8
-drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:18 .
-drwxrwxr-x 3 valerio valerio 4096 Apr 11 10:18 ..
--rw-rw-r-- 1 valerio valerio    0 Apr 11 10:18 CHANGELOG.md
--rw-rw-r-- 1 valerio valerio    0 Apr 11 10:18 INSTALL.md
--rw-rw-r-- 1 valerio valerio    0 Apr 11 10:18 README.md
+drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:56 .
+drwxrwxr-x 4 valerio valerio 4096 Apr 11 10:52 ..
+-rw-rw-r-- 1 valerio valerio    0 Apr 11 10:52 CHANGELOG.md
+-rw-rw-r-- 1 valerio valerio    0 Apr 11 10:52 INSTALL.md
+-rw-rw-r-- 1 valerio valerio    0 Apr 11 10:52 README_backup.md
+
+task2/backup/logs:
+total 8
+drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:52 .
+drwxrwxr-x 4 valerio valerio 4096 Apr 11 10:52 ..
 
 task2/project:
-total 24
-drwxrwxr-x 6 valerio valerio 4096 Apr 11 10:17 .
-drwxrwxr-x 4 valerio valerio 4096 Apr 11 10:46 ..
-drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:18 docs
-drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:17 logs
-drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:18 src
-drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:17 tests
+total 20
+drwxrwxr-x 5 valerio valerio 4096 Apr 11 10:52 .
+drwxrwxr-x 4 valerio valerio 4096 Apr 11 11:07 ..
+drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:52 docs
+drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:52 src
+drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:52 tests
 
 task2/project/docs:
 total 8
-drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:18 .
-drwxrwxr-x 6 valerio valerio 4096 Apr 11 10:17 ..
--rw-rw-r-- 1 valerio valerio    0 Apr 11 10:18 CHANGELOG.md
--rw-rw-r-- 1 valerio valerio    0 Apr 11 10:18 INSTALL.md
--rw-rw-r-- 1 valerio valerio    0 Apr 11 10:18 README.md
-
-task2/project/logs:
-total 8
-drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:17 .
-drwxrwxr-x 6 valerio valerio 4096 Apr 11 10:17 ..
+drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:52 .
+drwxrwxr-x 5 valerio valerio 4096 Apr 11 10:52 ..
+-rw-rw-r-- 1 valerio valerio    0 Apr 11 10:52 CHANGELOG.md
+-rw-rw-r-- 1 valerio valerio    0 Apr 11 10:52 INSTALL.md
+-rw-rw-r-- 1 valerio valerio    0 Apr 11 10:52 README.md
 
 task2/project/src:
 total 8
-drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:18 .
-drwxrwxr-x 6 valerio valerio 4096 Apr 11 10:17 ..
--rw-rw-r-- 1 valerio valerio    0 Apr 11 10:18 config.py
--rw-rw-r-- 1 valerio valerio    0 Apr 11 10:18 main.py
--rw-rw-r-- 1 valerio valerio    0 Apr 11 10:18 utils.py
+drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:52 .
+drwxrwxr-x 5 valerio valerio 4096 Apr 11 10:52 ..
+-rw-rw-r-- 1 valerio valerio    0 Apr 11 10:52 config.py
+-rw-rw-r-- 1 valerio valerio    0 Apr 11 10:52 main.py
+-rw-rw-r-- 1 valerio valerio    0 Apr 11 10:52 utils.py
 
 task2/project/tests:
 total 8
-drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:17 .
-drwxrwxr-x 6 valerio valerio 4096 Apr 11 10:17 ..
+drwxrwxr-x 2 valerio valerio 4096 Apr 11 10:52 .
+drwxrwxr-x 5 valerio valerio 4096 Apr 11 10:52 ..
